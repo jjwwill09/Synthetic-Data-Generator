@@ -147,7 +147,7 @@ def readFile():
 
 
 # TensorFlow Synthetic Name Generator 
-def generate_synthetic_names(original_names, num_to_generate=1000, epochs=19900):
+def generate_synthetic_names(original_names, num_to_generate=1000, epochs=500): # Change epochs to the amount of times you want it to review the given data
    print("Training TensorFlow model to generate synthetic names...")
    text = "\n".join(original_names.astype(str).str.lower())
 
