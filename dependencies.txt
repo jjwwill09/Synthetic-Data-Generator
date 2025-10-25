@@ -1,0 +1,13 @@
+# --- Path Libraries ---
+pandas==2.2.2
+pathlib==1.26.4
+
+# --- Fake Synthetic Data ---
+faker==25.8.0
+
+# --- Synthetic Numerical Data ---
+sdv==1.8.1
+
+# --- Synthetic String Data ---
+numpy==1.26.4
+tensorflow==2.16.1
