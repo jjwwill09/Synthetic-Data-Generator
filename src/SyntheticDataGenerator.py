@@ -312,12 +312,6 @@ def main():
        if 'csv_path' in globals() and os.path.exists(csv_path):
            os.remove(csv_path)
 
-
-       # Save synthetic dataset
-       synthetic_data.to_excel(file_name, index=False)
-       print(f"\nSynthetic data (with names) saved to {file_name}")
-
-
    # If main function fails print an error
    except Exception as e:
        print(f"Error in main function: {str(e)}")
