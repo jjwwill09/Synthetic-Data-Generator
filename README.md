@@ -33,3 +33,13 @@ Clone the repository and install dependencies:
 git clone https://github.com/yourusername/Synthetic-Data-Generator.git
 cd Synthetic-Data-Generator
 pip install -r requirements.txt
+
+# --- Sources ---
+- TensorFlow. (2019). TensorFlow. TensorFlow; Google. https://www.tensorflow.org/
+- Pandas. (2018). Python Data Analysis Library. Pydata.org.
+https://pandas.pydata.org/
+- Welcome to Faker’s documentation! — Faker 5.0.1 documentation. (n.d.).
+Faker.readthedocs.io. https://faker.readthedocs.io/en/master/
+- Welcome to the SDV! | Synthetic Data Vault. (2024, April 16). Sdv.dev.
+https://docs.sdv.dev/sdv
+- Numpy. (2024). NumPy. Numpy.org. https://numpy.org/
