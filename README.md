@@ -35,5 +35,5 @@ cd Synthetic-Data-Generator
 pip install -r requirements.txt
 
 # --- DEMO ---
-The demo page can be found here:
-/assets
+The demo media can be found here:
+/assets/
