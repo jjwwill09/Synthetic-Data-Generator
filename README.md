@@ -33,7 +33,3 @@ Clone the repository and install dependencies:
 git clone https://github.com/yourusername/Synthetic-Data-Generator.git
 cd Synthetic-Data-Generator
 pip install -r requirements.txt
-
-# --- DEMO ---
-The demo media can be found here:
-/assets/
